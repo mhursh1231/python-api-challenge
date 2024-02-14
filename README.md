@@ -58,6 +58,7 @@ To succeed on this deliverable of the assignment, open the 'VacationPy.ipynb' st
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 5. Add the hotel name and the country as additional information in the hover message for each city on the map.
 <img width="1163" alt="Screenshot 2024-02-13 at 22 25 41" src="https://github.com/mhursh1231/python-api-challenge/assets/149441646/7a544458-df93-4192-86f9-7a670da1375f">
+
 # Hinds and Considerations
 - The city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook.
 - If you'd like a refresher on the geographic coordinate system, this siteLinks to an external site. has great information.
